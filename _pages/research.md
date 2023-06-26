@@ -1,11 +1,11 @@
 ---
 permalink: /research/
-title: "Research"
-excerpt: "This is a page not in th emain menu"
+title: "Research Interests"
+excerpt: "My Research Interests"
 author_profile: true
 redirect_from: 
   - "/research/"
-  - "/research.html/"
+# - "/research.html/"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
