@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /other/
 title: "Other"
 excerpt: "Miscellaneous"
