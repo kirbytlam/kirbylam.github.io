@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<embed src="files/[Kirby Lam] CV 07-20-23.pdf" type="application/pdf" width="100%" height="600em" />
 
 <!-- {% include base_path %}
 

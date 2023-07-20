@@ -10,6 +10,12 @@ author_profile: true
 
 <!--This is a page not in the menu. You can use markdown in this page.-->
 
-WIP
+Social Norms
+======
+
+Cross Cultural Differences in Self-Construal
+======
+
+Sociocognitive Mechanisms of Racial Prejudice
 ======
 
